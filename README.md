@@ -9,3 +9,5 @@ step 6:After creating , click import button at the top.
 step 7:Import the sql file named as "epiz_33825522_localtrainticketbookingsystem (1)" and click import and close the tab.
 step 8:Open Browser search localhost/Local Train Ticket Booking.
 step 9:Now you can see the Website.
+![Screenshot (1416)](https://github.com/Prasathlonelyking/LocalTrainTicketBooking/assets/119600246/b56812be-2639-4a31-91a3-faa84a817db8)
+
